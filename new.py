@@ -7,3 +7,5 @@ print("new")
 b = 23
 
 print(b)
+
+print(b+b)
