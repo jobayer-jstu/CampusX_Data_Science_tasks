@@ -1,5 +1,0 @@
-git add .
-git commit -m "first commit"
-git push
-
-git remote set-url origin https://github.com/jobayer-jstu/Data_Science_Projects/blob/main/CampusX_Data_Science_tasks.git
