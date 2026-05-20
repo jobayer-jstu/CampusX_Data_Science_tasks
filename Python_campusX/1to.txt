@@ -1,0 +1,7 @@
+git remote set-url origin https://github.com/jobayer-jstu/Data_Science_Projects.git
+
+git clone https://github.com/jobayer-jstu/Data_Science_Projects.git
+
+git add .
+git commit -m "first commit"
+git push
